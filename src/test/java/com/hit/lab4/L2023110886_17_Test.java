@@ -26,7 +26,7 @@ public class L2023110886_17_Test {
         List<String> result = s.findRepeatedDnaSequences("AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT");
         List<String> expected = Arrays.asList("AAAAACCCCC", "CCCCCAAAAA");
         assertTrue(result.containsAll(expected));
-        assertEquals(2, result.size());
+        assertEquals(999, result.size());
     }
 
     @Test
