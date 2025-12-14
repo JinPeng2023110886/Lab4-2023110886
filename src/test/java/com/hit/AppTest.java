@@ -1,4 +1,4 @@
-package com.example;
+package com.hit;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
